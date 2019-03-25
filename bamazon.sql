@@ -18,8 +18,10 @@ VALUES	("Milk", "Food", 3, 300),
 		("Shirts", "Clothing", 10, 200), 
         ("Cereal", "Food", 5, 250), 
         ("Television", "Electronics", 500, 50), 
-		("Takis", "Food", 2.50, 330), 
-        ("Gaming Console", "Electronics", 250, 80);
+		("Taki's", "Food", 2.50, 330), 
+        ("Gaming Console", "Electronics", 250, 80),
+        ("Deodorant", "Toiletries", 4, 150),
+        ("Pants", "Clothing", 30, 220);
 
 SELECT * FROM products;
 
