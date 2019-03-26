@@ -15,7 +15,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES	("Milk", "Food", 3, 300), 
 		("Bread", "Food", 1.50, 100), 
         ("Toothpaste", "Toiletries", 2, 100), 
-		("Shirts", "Clothing", 10, 200), 
+		("Shirt", "Clothing", 10, 200), 
         ("Cereal", "Food", 5, 250), 
         ("Television", "Electronics", 500, 50), 
 		("Taki's", "Food", 2.50, 330), 
