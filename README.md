@@ -21,7 +21,7 @@ Here are some screenshots of the application's functionality:
 3. In this case, I am buying all of the deodorant in stock because who doesn't like smelling nice and clean.
 ![purchase](images/buyalldeodorant.png)
 
-4. Now I am trying to make a new purchase of one unit of deodorant. However, the transaction will not go through becuase there is no more deodorant left in stock. 
+4. Now I am trying to make a new purchase of one unit of deodorant. However, the transaction will not go through because there is no more deodorant left in stock. 
 ![purchase](images/buyzerostock.png)
 
 5. Lastly, this is what is shown when exiting the application. 
